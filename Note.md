@@ -1,0 +1,33 @@
+- **menace** /ˈmenəs/ (n): mối đe dọa
+	- The menace posed by Stuxbot is serious.
+- **motto** /ˈmɒtəʊ/ (n): phương châm
+	- The motto seems to be anywhere, anytime.
+- **espionage** /ˈespiənɑːʒ/ (n): Gián điệp
+	- The primary motivation behind their actions appear to be espionage, there is no indication of them exfiltrating the proprietary business information and sensitive blueprints, or seeking financial gain through methods such as ransomware or blackmail.
+- **opportunistic-phishing** (n)
+	- The group primarily leverages opportunistic-phishing for initial access, exploiting data from social media, past breaches and corporate website.
+- **scant** (a): Thiếu sót, không đầy đủ
+	- There is scant evidence suggesting spear-phishing against specific individuals.
+- **compile** /kəmˈpaɪl/ (v): Tổng hợp
+	- The document compiles all Tactics Techniques Procedures and Indicators of Compromise (IOCs) linked to the group, which are under continuous refinement.
+- **refinement** /rɪˈfaɪnmənt/ (n): Hoàn thiện
+	- Refinement is a small change to improve it.
+- **preliminary sketch** (n): Bản phác thảo sơ bộ
+	- The preliminary sketch is confidential and meant exclusively for our partners.
+- **instigate** /ˈɪnstɪɡeɪt/ (v): khởi xướng, bắt đầu
+	- He instigates this project to improve community services.
+- **scrutinize** /ˈskruːtənaɪz/ (v): xem xét kỹ lưỡng
+	- The document have to be scrutinized by manual analysis.
+- **malevolent file attachment**: file độc hại
+	- Malevolent file attachment will be scrutinized by in-depth analysis, then speculated the motivation behind the actions, perhaps espionage.
+- **speculate** (v): suy đoán
+	- I speculate that the URL can be used for primary phishing.
+- **intrigue** /ˈskruːtənaɪz/ (n, v): lôi cuốn, hấp dấn
+	- The vulnerability of system intrigues me to exploit thoroughly it.
+- **at the juncture**: vào thời điểm này
+	- At the juncture, we must debug malware to understand the operation of code.
+- **discern** (v): nhận ra
+	- Malevolent file attachment have to be discerned by behavioral analysis using tool like ANY.RUN
+- **diagramming** (n): tạo ra sơ đồ, vẽ sơ đồ
+	- The diagramming of system clarified its components in order to scrutinize the operation, then  
+- **plausible explanation** (n): Giải thích hợp lý
